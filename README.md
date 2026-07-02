@@ -4,7 +4,7 @@ PDF archive for *Mystery of Antiques*, updated alongside AO3 chapter releases.
 
 ## Download
 
-[Mystery of Antiques.pdf](./Mystery%20of%20Antiques.pdf)
+[Mystery of Antiques.pdf](https://github.com/Anecno/antique/releases/latest/download/Mystery.of.Antiques.pdf)
 
 ## Rights
 
