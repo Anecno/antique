@@ -9,8 +9,9 @@ PDF and EPUB archive for *Mystery of Antiques*, updated alongside AO3 chapter re
 
 Suggested EPUB readers:
 
-- **Desktop**: [Calibre](https://calibre-ebook.com/download)
+- **Windows / macOS / Linux**: [Calibre](https://calibre-ebook.com/download). On a Mac, the built-in Apple Books app also works.
 - **Android phones & e-readers**: [KOReader](https://f-droid.org/packages/org.koreader.launcher.fdroid/) — on that page, scroll down to **Versions** and tap **Download APK** on the newest entry. (The big blue *Download F-Droid* button is the F-Droid store app, not KOReader.)
+- **iPhone & iPad**: the built-in **Apple Books** app — just open the downloaded file and it imports automatically.
 
 ## Rights
 
