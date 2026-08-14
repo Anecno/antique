@@ -1,6 +1,6 @@
 # Mystery of Antiques
 
-**Current release: [v1.9.1](https://github.com/Anecno/antique/releases/latest) — updated through Book 1, Chapter 9.**
+**Current release: [v1.9.2](https://github.com/Anecno/antique/releases/latest) — updated through Book 1, Chapter 9.**
 
 PDF and EPUB archive for *Mystery of Antiques*, updated alongside AO3 chapter releases.
 
